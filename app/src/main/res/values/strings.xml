@@ -1,3 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Landing</string>
+    <string name="aplikasi_peramalan_nharga_minyak_mentah_nindonesia_berbasis_nandroid">Aplikasi Peramalan\nHarga Minyak Mentah\nIndonesia berbasis\nAndroid</string>
+    <string name="deskripsi_content">
+        Aplikasi ini meramalkan perubahan harga minyak mentah Indonesia menggunakan metode peramalan times series yaitu metode Single Exponential Smoothing dan Double Exponential Smoothing yang berdasarkan pada data masa lampau harga minyak mentah Indonesia tahun 2007-2017 yang bersumber dari website Kementrian PPN/Bapenas.  </string>
+    <string name="fitur1">Meramalkan Perubahan Harga Minyak Mentah Indonesia</string>
+    <string name="fitur2">Fitur Pengentri Data</string>
+    <string name="fitur3">Fitur Evaluasi Akurasi Model</string>
+    <string name="fitur4">Mendukung Multibahasa</string>
+    <string name="deskripsi_aplikasi">Deskripsi Aplikasi</string>
+    <string name="fitur_aplikasi">Fitur Aplikasi</string>
+    <string name="unduh_aplikasi">Unduh Aplikasi</string>
+    <string name="buku_petunjuk_penggunaan">Buku Petunjuk Penggunaan</string>
+    <string name="des_petunjuk">Buku petunjuk penggunaan aplikasi peramalan harga minyak mentah indonesia dapat di unduh dibawah ini</string>
+    <string name="aplikasi_peramalan_harga_minyak_mentah_indonesia_dapat_di_unduh_di_bawah_ini">Aplikasi peramalan harga minyak mentah indonesia dapat di unduh di bawah ini</string>
+
+    <string-array name="data_title">
+        <item>@string/fitur1</item>
+        <item>@string/fitur2</item>
+        <item>@string/fitur3</item>
+        <item>@string/fitur4</item>
+
+    </string-array>
+
+
+    <array name="data_ic">
+        <item>@drawable/graph</item>
+        <item>@drawable/file_storage</item>
+        <item>@drawable/check_list</item>
+        <item>@drawable/languages</item>
+
+    </array>
 </resources>
